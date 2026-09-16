@@ -57,3 +57,8 @@ Milestone 1.8.2: aggiunto feedback visivo sobrio LEVEL UP / LEVEL DOWN con categ
 
 ## Milestone 1.8.3
 Aggiunti Esporta Backup e Importa Backup in Gestione > Regole. Il backup JSON contiene lo stato locale completo; l'importazione valida il file e richiede conferma prima di sostituire i dati correnti.
+
+
+## Milestone 1.8.4
+- Correzione: la Task Salute mentale legacy non viene più mostrata in Home dopo essere stata eliminata da Gestione.
+- Cache PWA aggiornata a v1.8.4.
