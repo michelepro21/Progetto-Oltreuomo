@@ -1,4 +1,4 @@
-# Progetto Oltreuomo — Milestone 1.4
+# Progetto Oltreuomo — Milestone 1.8.5
 
 Aggiunge la schermata Trofei alla Milestone 1.3.
 
