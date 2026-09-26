@@ -22,3 +22,9 @@
 .progress-card.non-oltreuomo .progress-fill{background:var(--violet)}
 .manage-tabs.four{grid-template-columns:repeat(4,1fr)}
 .manage-tabs.four .manage-tab{font-size:9px;padding-left:3px;padding-right:3px}
+
+/* 1.9.1 — accenti coerenti categorie */
+.btn.violet{background:var(--violet);color:#160d2a}
+.manage-card:not(.non-oltreuomo){border-color:var(--green)}
+.level-fx.level-up.non-oltreuomo .level-fx-card{border-color:var(--violet)}
+.level-fx.level-up.non-oltreuomo .level-fx-kicker,.level-fx.level-up.non-oltreuomo .level-fx-level{color:var(--violet)}
