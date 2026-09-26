@@ -28,3 +28,11 @@
 .manage-card:not(.non-oltreuomo){border-color:var(--green)}
 .level-fx.level-up.non-oltreuomo .level-fx-card{border-color:var(--violet)}
 .level-fx.level-up.non-oltreuomo .level-fx-kicker,.level-fx.level-up.non-oltreuomo .level-fx-level{color:var(--violet)}
+
+
+/* 1.9.2 — Trofei seguono l'accento della categoria */
+.trophy-group.non-oltreuomo>.eyebrow{color:var(--violet)}
+.trophy-card.non-oltreuomo{border-color:var(--violet)}
+.trophy-card.non-oltreuomo .trophy-icon,.trophy-card.non-oltreuomo .trophy-state{color:var(--violet)}
+.trophy-fx.non-oltreuomo .trophy-fx-card{border-color:var(--violet)}
+.trophy-fx.non-oltreuomo .trophy-fx-symbol,.trophy-fx.non-oltreuomo .trophy-fx-kicker{color:var(--violet)}
