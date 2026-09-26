@@ -16,9 +16,3 @@
 .trophy-fx{position:fixed;inset:0;z-index:10000;display:flex;align-items:center;justify-content:center;padding:24px;background:#0000;pointer-events:none;opacity:0;transition:opacity .22s ease,background .22s ease}.trophy-fx.show{opacity:1;background:#0009}.trophy-fx.leave{opacity:0;background:#0000}.trophy-fx-card{width:min(340px,100%);background:#0d0e0d;border:1px solid var(--green);border-radius:16px;padding:27px 22px 25px;text-align:center;transform:scale(.92) translateY(8px);opacity:.2;transition:transform .3s cubic-bezier(.2,.8,.2,1),opacity .25s ease;box-shadow:0 12px 40px #0008}.trophy-fx.show .trophy-fx-card{transform:scale(1) translateY(0);opacity:1}.trophy-fx.leave .trophy-fx-card{transform:scale(.98) translateY(-6px)}.trophy-fx-symbol{color:var(--green);font-size:42px;line-height:1;margin-bottom:11px}.trophy-fx-kicker{color:var(--green);font-size:14px;font-weight:950;letter-spacing:2px}.trophy-fx-name{margin-top:13px;font-size:24px;font-weight:900;letter-spacing:-.4px}.trophy-fx-reward{margin-top:9px;color:#d4d6d0;font-size:13px;font-weight:800;letter-spacing:.6px}@media (prefers-reduced-motion:reduce){.trophy-fx,.trophy-fx-card{transition:none!important}}
 
 .backup-card{margin-top:18px}.backup-card .btn{margin-top:10px}.backup-import{border:1px solid #777;background:#262626;color:#fff}
-:root{--violet:#a78bfa}
-.card.non-oltreuomo,.progress-card.non-oltreuomo,.manage-card.non-oltreuomo{border-color:var(--violet)}
-.card.non-oltreuomo .eyebrow,.progress-card.non-oltreuomo .eyebrow,.manage-card.non-oltreuomo .manage-name{color:var(--violet)}
-.progress-card.non-oltreuomo .progress-fill{background:var(--violet)}
-.manage-tabs.four{grid-template-columns:repeat(4,1fr)}
-.manage-tabs.four .manage-tab{font-size:9px;padding-left:3px;padding-right:3px}
