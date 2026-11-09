@@ -13,3 +13,6 @@ Nessuna modifica al modello dati o agli XP.
 - I Trofei ereditano l’accento della categoria: verde per categorie Oltreuomo, viola #a78bfa per categorie non-Oltreuomo.
 - Anche il pulsante OTTIENI, lo stato ottenuto, Gestione Trofei e l’overlay TROFEO OTTENUTO seguono l’accento della categoria.
 - Nessuna modifica a XP, ottenimento, permanenza o cronologia.
+
+## Milestone 1.9.3
+Penalità Skip fissa per Task (`skipXp`), configurabile in creazione e modifica. Le Task esistenti vengono inizializzate a 0 XP. Nessun accumulo Skip e nessun campo Skip globale in Regole. Penalità applicata soltanto alla chiusura confermata del Giorno Oltreuomo; le giornate precedenti restano immutate.
